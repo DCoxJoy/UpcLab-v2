@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://upcAdmin1:uPc$1228Admn@upccluster.m4ccb.mongodb.net/upcitems?retryWrites=true&w=majority",
+    "jwtSecret": "secretSawc123"
+}
